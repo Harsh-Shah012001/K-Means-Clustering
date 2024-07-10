@@ -1,1 +1,4 @@
 # K-Means-Clustering
+[K-means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) clustering is a popular unsupervised machine learning algorithms. Unsupervised algorithms make inferences from datasets using only input vectors without target.  
+The objective of K-means is to group similar data points together and discover underlying patterns. To achieve this objective, K-means looks for a fixed number (k) of clusters in a dataset. A cluster is a collection of data points grouped together because of certain similarities. You have to define the number of clusters or target number k, which refers to the number of centroids you need in the dataset. A centroid is the imaginary or real location representing the center of the cluster.
+Every data point is allocated to each of the clusters through reducing the in-cluster sum of squares.
